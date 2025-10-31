@@ -9,6 +9,11 @@ Perfect for people who prefer insights over syntax battles.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lytequery.streamlit.app/) [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+## Demo
+[![Open the LyteQuery](assets/Demo1.png)](https://lytequery.streamlit.app/)
+[![Open the LyteQuery](assets/Demo2.png)](https://lytequery.streamlit.app/)
+[![Open the LyteQuery](assets/Demo3.png)](https://lytequery.streamlit.app/)
+
 ## 🚨 The Problem
 
 Data teams are bottlenecked. Analysts waste time on syntax. Executives wait days for simple answers. <br>
