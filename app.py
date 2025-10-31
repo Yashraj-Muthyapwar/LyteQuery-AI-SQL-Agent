@@ -7,24 +7,27 @@ from utils.state_manager import initialize_session_state
 from core.database import setup_database_connection
 
 def main():
+
+    # Page config
+    st.set_page_config(
+        page_title="LyteQuery AI SQL Agent",
+        page_icon="🗄️",
+        layout="wide",
+        initial_sidebar_state="expanded"
+    )
+
     # Load CSS
     load_css()
     
     # Initialize session state
     initialize_session_state()
     
-    # Page config
-    st.set_page_config(
-        page_title="SQL Agent Pro",
-        page_icon="🗄️",
-        layout="wide",
-        initial_sidebar_state="expanded"
-    )
+    
     
     # Header
     c1, c2 = st.columns([5, 1])
     with c1:
-        st.title("⛃ SQL Agent Pro")
+        st.title("⛁ LyteQuery AI SQL Agent")
         st.markdown("Ask questions in plain English, get instant insights from your data.")
     with c2:
         if st.session_state.db_connected:
