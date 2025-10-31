@@ -7,7 +7,7 @@ Stop writing SQL. Start asking questions. LyteQuery turns natural language into 
 One question is all it takes. LyteQuery writes the SQL, fetches the results, and turns them into charts you can use immediately. <br>
 Perfect for people who prefer insights over syntax battles.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lytequery.streamlit.app/) ![License](https://img.shields.io/badge/License-MIT-green)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lytequery.streamlit.app/) ![License](https://img.shields.io/badge/License-MIT-green)(LICENSE)
 
 ## 🚨 The Problem
 
