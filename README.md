@@ -85,6 +85,6 @@ Your web browser should open to the application's URL (usually http://localhost:
 > “Show the top 10 products by revenue.” LyteQuery → Builds SQL → Executes query → Renders bar chart.
 
 ### 📝 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.txt) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 Contributions welcome built with ❤️ to make querying & insights feel effortless.
