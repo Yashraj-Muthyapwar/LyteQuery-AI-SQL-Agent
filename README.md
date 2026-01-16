@@ -33,6 +33,7 @@ Data teams are bottlenecked. Analysts waste time on syntax. Executives wait days
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" />
 
 - **Natural-Language to Insights**  
   Ask questions in plain English get SQL, results, and visual insights automatically.
